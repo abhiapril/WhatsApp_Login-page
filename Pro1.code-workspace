@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Pro1"
+		},
+		{
+			"path": "../../../Downloads/assets"
+		},
+		{
+			"path": "../../WhatApp Web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WhatApp Web"
+	}
+}
